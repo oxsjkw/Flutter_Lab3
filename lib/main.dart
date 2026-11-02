@@ -13,6 +13,8 @@ void main() {
                 Colors.deepPurpleAccent,
                 Colors.blueGrey,
               ],
+              begin: Alignment.topCenter,
+              end:Alignment.bottomCenter,
             ),
           ),
           child: Center(
